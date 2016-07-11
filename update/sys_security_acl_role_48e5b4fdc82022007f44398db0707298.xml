@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-07-11 20:47:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>48e5b4fdc82022007f44398db0707298</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_k16_july_lab.x_k16_july.user</sys_name>
+        <sys_package display_value="K16_july" source="x_k16_july">e3d578bdc82022007f44398db07072d8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K16_july">e3d578bdc82022007f44398db07072d8</sys_scope>
+        <sys_security_acl display_value="x_k16_july_lab">8ce5b4fdc82022007f44398db0707297</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_48e5b4fdc82022007f44398db0707298</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-07-11 20:47:42</sys_updated_on>
+        <sys_user_role display_value="x_k16_july.user" name="x_k16_july.user">6bd5b4fdc82022007f44398db0707291</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
